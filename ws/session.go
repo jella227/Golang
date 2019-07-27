@@ -2,7 +2,7 @@
 // WebSocket Session对象
 // Author 		:Jella
 // Version 		:1.0.2(release)
-// Dependency	:github.com/gorilla/websocket
+// Dependency		:github.com/gorilla/websocket
 /********************************************************/
 
 package ws
