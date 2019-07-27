@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"jella/byt"
-	"jella/ws"
+	"Golang-master/byt"
+	"Golang-master/ws"
 	"strings"
 )
 
