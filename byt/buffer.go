@@ -2,10 +2,10 @@
 // 字节对象
 // Author 		:Jella
 // Version 		:1.0.3(release)
-// Dependency	:none
+// Dependency		:none
 // Example		:
-//				buf:=byt.NewBuffer()
-//				buf.WriteUTF8String("HelloWorld!")
+//			buf:=byt.NewBuffer()
+//			buf.WriteUTF8String("HelloWorld!")
 /********************************************************/
 
 package byt
