@@ -4,9 +4,10 @@ Instructions:
 Download the package and compress. Move the unzipped file into your Go working directory(.../GoPath/src/).
 
 Folder
-1. byt      : Byte Buffer (source code).
-2. ws       : WebSocket (client,server,session) (source code).
-3. example  : Network Communication with Websocket and Buffer.
+1. byt            : Byte Buffer (source code).
+2. ws             : WebSocket (client,server,session) (source code).
+3. example        : Network Communication with Websocket and Buffer.
+4. github.com.zip : websocket dependencies files.
 
 Tips:
 Open the example folder and modify the Host parameters of c/client.go file and s/server.go file.
